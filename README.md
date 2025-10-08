@@ -40,7 +40,7 @@ The code for create er_to_delete_pdb_27928 PDB is [here.](sql/02_er_to_delete_pd
 
 * Check if created, Open the New PDB and drop or delete it.
 
-![Check if created](Screenshots/02_check_if_created.png)
+![Check if created](Screenshots/12_check_if_created_and_alter.png)
 
 
 
