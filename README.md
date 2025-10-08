@@ -65,7 +65,7 @@ The code for Configure OEM is [here.](sql/03_configure_oem.sql)
 
 ![Check the port setting](Screenshots/32_restart_database.png)
 
-Access OEM in your browser URL format:[https://localhost:8800/em](https://localhost:8800/em)
+Access OEM in your browser URL format: [https://localhost:8800](https://localhost:8800)
 
 #### Challenge:
 
