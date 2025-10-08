@@ -73,5 +73,8 @@ For me there is issues for not connect the OEM in browser and i put my username 
 
 ![Check the port setting](Screenshots/34_oem.png)
 
+## Reference
 
+1. Docker Inc. (2025). Docker documentation. [Docker Docs](https://docs.docker.com/).
+2. Youtube video (2024): [Creating a docker container with the newest Oracle DB release 23ai](https://www.youtube.com/watch?v=dbKkk-zvJm4&t=760s) 
 
